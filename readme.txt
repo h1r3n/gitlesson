@@ -1,1 +1,1 @@
-Contect of readme.txt
+Content of readme.txt
